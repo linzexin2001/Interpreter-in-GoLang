@@ -6,5 +6,5 @@ Book Link: [Source Book PDF Access](https://edu.anarcho-copy.org/Programming%20L
 
 
 #### Dev Plan:
-Week 1: Lexical Analysis (Source Code -> Tokens -> Abstract Syntax Tree)
+Week 1: Lexical Analysis (Source Code -> Tokens -> Abstract Syntax Tree)\
 Week 2:
